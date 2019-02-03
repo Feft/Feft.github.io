@@ -1,6 +1,5 @@
 # Who am I?
-Hello, I'm Peter, on github knowns as [Feft](https://github.com/Feft)
-
+Hello, I'm Peter, on github knowns as [Feft](https://github.com/Feft).
 I live in Poland, Earth. 
 
 ## My cars
